@@ -1,1 +1,1 @@
-require("dthan")
+require("config.lazy")
